@@ -907,6 +907,156 @@
     },
     {
       "type": "file",
+      "name": "emote__.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote__.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_alert.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_alert.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_anger.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_anger.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_bars.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_bars.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_cash.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_cash.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_circle.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_circle.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_cloud.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_cloud.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_cross.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_cross.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_dots1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_dots1.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_dots2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_dots2.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_dots3.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_dots3.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_drop.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_drop.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_drops.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_drops.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_exclamation.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_exclamation.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_exclamations.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_exclamations.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_faceAngry.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_faceAngry.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_faceHappy.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_faceHappy.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_faceSad.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_faceSad.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_heart.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_heart.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_heartBroken.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_heartBroken.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_hearts.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_hearts.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_idea.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_idea.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_laugh.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_laugh.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_music.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_music.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_question.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_question.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_sleep.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_sleep.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_sleeps.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_sleeps.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_star.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_star.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_stars.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_stars.png"
+    },
+    {
+      "type": "file",
+      "name": "emote_swirl.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/emotes/emote_swirl.png"
+    },
+    {
+      "type": "file",
       "name": "land_dirt05.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/environment/land_dirt05.png"
     },
@@ -1217,6 +1367,41 @@
     },
     {
       "type": "file",
+      "name": "shaded_medal3.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal3.png"
+    },
+    {
+      "type": "file",
+      "name": "shaded_medal4.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal4.png"
+    },
+    {
+      "type": "file",
+      "name": "shaded_medal5.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal5.png"
+    },
+    {
+      "type": "file",
+      "name": "shaded_medal6.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal6.png"
+    },
+    {
+      "type": "file",
+      "name": "shaded_medal7.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal7.png"
+    },
+    {
+      "type": "file",
+      "name": "shaded_medal8.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal8.png"
+    },
+    {
+      "type": "file",
+      "name": "shaded_medal9.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/shaded_medal9.png"
+    },
+    {
+      "type": "file",
       "name": "skidmark_long_1.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/skidmark_long_1.png"
     },
@@ -1459,6 +1644,931 @@
       "type": "file",
       "name": "tribune_overhang_striped.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/objects/tribune_overhang_striped.png"
+    },
+    {
+      "type": "file",
+      "name": "arrowDown.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/arrowDown.png"
+    },
+    {
+      "type": "file",
+      "name": "arrowLeft.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/arrowLeft.png"
+    },
+    {
+      "type": "file",
+      "name": "arrowRight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/arrowRight.png"
+    },
+    {
+      "type": "file",
+      "name": "arrowUp.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/arrowUp.png"
+    },
+    {
+      "type": "file",
+      "name": "audioOff.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/audioOff.png"
+    },
+    {
+      "type": "file",
+      "name": "audioOn.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/audioOn.png"
+    },
+    {
+      "type": "file",
+      "name": "banner_classic_curtain.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/banner_classic_curtain.png"
+    },
+    {
+      "type": "file",
+      "name": "banner_hanging.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/banner_hanging.png"
+    },
+    {
+      "type": "file",
+      "name": "banner_modern.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/banner_modern.png"
+    },
+    {
+      "type": "file",
+      "name": "barsHorizontal.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/barsHorizontal.png"
+    },
+    {
+      "type": "file",
+      "name": "barsVertical.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/barsVertical.png"
+    },
+    {
+      "type": "file",
+      "name": "button1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button1.png"
+    },
+    {
+      "type": "file",
+      "name": "button2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button2.png"
+    },
+    {
+      "type": "file",
+      "name": "button3.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button3.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonA.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonA.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonB.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonB.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonL.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonL.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonL1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonL1.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonL2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonL2.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonR.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonR.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonR1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonR1.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonR2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonR2.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonSelect.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonSelect.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonStart.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonStart.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonX.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonX.png"
+    },
+    {
+      "type": "file",
+      "name": "buttonY.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/buttonY.png"
+    },
+    {
+      "type": "file",
+      "name": "button_brown.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button_brown.png"
+    },
+    {
+      "type": "file",
+      "name": "button_brown_close.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button_brown_close.png"
+    },
+    {
+      "type": "file",
+      "name": "button_grey.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button_grey.png"
+    },
+    {
+      "type": "file",
+      "name": "button_grey_close.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button_grey_close.png"
+    },
+    {
+      "type": "file",
+      "name": "button_red_close.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/button_red_close.png"
+    },
+    {
+      "type": "file",
+      "name": "checkmark.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/checkmark.png"
+    },
+    {
+      "type": "file",
+      "name": "contrast.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/contrast.png"
+    },
+    {
+      "type": "file",
+      "name": "cross.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/cross.png"
+    },
+    {
+      "type": "file",
+      "name": "crosshair071.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/crosshair071.png"
+    },
+    {
+      "type": "file",
+      "name": "crosshair132.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/crosshair132.png"
+    },
+    {
+      "type": "file",
+      "name": "crosshair137.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/crosshair137.png"
+    },
+    {
+      "type": "file",
+      "name": "crosshair138.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/crosshair138.png"
+    },
+    {
+      "type": "file",
+      "name": "direction_right_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/direction_right_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "down.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/down.png"
+    },
+    {
+      "type": "file",
+      "name": "downLeft.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/downLeft.png"
+    },
+    {
+      "type": "file",
+      "name": "downRight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/downRight.png"
+    },
+    {
+      "type": "file",
+      "name": "dpad_element_east_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/dpad_element_east_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "dpad_element_north_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/dpad_element_north_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "dpad_element_south_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/dpad_element_south_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "dpad_element_west_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/dpad_element_west_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "exclamation.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/exclamation.png"
+    },
+    {
+      "type": "file",
+      "name": "exit.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/exit.png"
+    },
+    {
+      "type": "file",
+      "name": "exitLeft.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/exitLeft.png"
+    },
+    {
+      "type": "file",
+      "name": "exitRight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/exitRight.png"
+    },
+    {
+      "type": "file",
+      "name": "export.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/export.png"
+    },
+    {
+      "type": "file",
+      "name": "fastForward.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/fastForward.png"
+    },
+    {
+      "type": "file",
+      "name": "gamepad.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/gamepad.png"
+    },
+    {
+      "type": "file",
+      "name": "gamepad1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/gamepad1.png"
+    },
+    {
+      "type": "file",
+      "name": "gamepad2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/gamepad2.png"
+    },
+    {
+      "type": "file",
+      "name": "gamepad3.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/gamepad3.png"
+    },
+    {
+      "type": "file",
+      "name": "gamepad4.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/gamepad4.png"
+    },
+    {
+      "type": "file",
+      "name": "gear.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/gear.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_circle.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_circle.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_circle_fill.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_circle_fill.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_circle_outline.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_circle_outline.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_finger.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_finger.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_finger_pressed.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_finger_pressed.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_pressed.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_pressed.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_square.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_square_fill.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_square_fill.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_square_outline.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_square_outline.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_a.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_a.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_a_fill.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_a_fill.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_a_outline.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_a_outline.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_b.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_b.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_b_fill.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_b_fill.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_b_outline.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_b_outline.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_c.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_c.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_c_fill.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_c_fill.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_button_trigger_c_outline.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_button_trigger_c_outline.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_horizontal.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_horizontal.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_left.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_left.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_red.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_red.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_red_horizontal.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_red_horizontal.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_red_left.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_red_left.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_red_right.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_red_right.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_joystick_right.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_joystick_right.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_down.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_down.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_horizontal.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_horizontal.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_left.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_left.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_press.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_press.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_right.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_right.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_side.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_side.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_up.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_up.png"
+    },
+    {
+      "type": "file",
+      "name": "generic_stick_vertical.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/generic_stick_vertical.png"
+    },
+    {
+      "type": "file",
+      "name": "home.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/home.png"
+    },
+    {
+      "type": "file",
+      "name": "import.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/import.png"
+    },
+    {
+      "type": "file",
+      "name": "information.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/information.png"
+    },
+    {
+      "type": "file",
+      "name": "joystick.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/joystick.png"
+    },
+    {
+      "type": "file",
+      "name": "joystickLeft.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/joystickLeft.png"
+    },
+    {
+      "type": "file",
+      "name": "joystickRight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/joystickRight.png"
+    },
+    {
+      "type": "file",
+      "name": "joystickUp.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/joystickUp.png"
+    },
+    {
+      "type": "file",
+      "name": "joystick_circle_nub_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/joystick_circle_nub_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "joystick_circle_pad_highlight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/joystick_circle_pad_highlight.png"
+    },
+    {
+      "type": "file",
+      "name": "larger.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/larger.png"
+    },
+    {
+      "type": "file",
+      "name": "leaderboardsComplex.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/leaderboardsComplex.png"
+    },
+    {
+      "type": "file",
+      "name": "leaderboardsSimple.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/leaderboardsSimple.png"
+    },
+    {
+      "type": "file",
+      "name": "left.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/left.png"
+    },
+    {
+      "type": "file",
+      "name": "locked.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/locked.png"
+    },
+    {
+      "type": "file",
+      "name": "massiveMultiplayer.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/massiveMultiplayer.png"
+    },
+    {
+      "type": "file",
+      "name": "medal1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/medal1.png"
+    },
+    {
+      "type": "file",
+      "name": "medal2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/medal2.png"
+    },
+    {
+      "type": "file",
+      "name": "menuGrid.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/menuGrid.png"
+    },
+    {
+      "type": "file",
+      "name": "menuList.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/menuList.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_future_e.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_future_e.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_future_n.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_future_n.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_future_s.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_future_s.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_future_w.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_future_w.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_toon_e.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_toon_e.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_toon_n.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_toon_n.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_toon_s.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_toon_s.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_compass_toon_w.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_compass_toon_w.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_icon_exclamation_red.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_icon_exclamation_red.png"
+    },
+    {
+      "type": "file",
+      "name": "minimap_icon_exclamation_white.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minimap_icon_exclamation_white.png"
+    },
+    {
+      "type": "file",
+      "name": "minus.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/minus.png"
+    },
+    {
+      "type": "file",
+      "name": "mouse.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/mouse.png"
+    },
+    {
+      "type": "file",
+      "name": "movie.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/movie.png"
+    },
+    {
+      "type": "file",
+      "name": "multiplayer.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/multiplayer.png"
+    },
+    {
+      "type": "file",
+      "name": "musicOff.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/musicOff.png"
+    },
+    {
+      "type": "file",
+      "name": "musicOn.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/musicOn.png"
+    },
+    {
+      "type": "file",
+      "name": "next.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/next.png"
+    },
+    {
+      "type": "file",
+      "name": "open.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/open.png"
+    },
+    {
+      "type": "file",
+      "name": "pause.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/pause.png"
+    },
+    {
+      "type": "file",
+      "name": "phone.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/phone.png"
+    },
+    {
+      "type": "file",
+      "name": "plus.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/plus.png"
+    },
+    {
+      "type": "file",
+      "name": "power.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/power.png"
+    },
+    {
+      "type": "file",
+      "name": "previous.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/previous.png"
+    },
+    {
+      "type": "file",
+      "name": "question.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/question.png"
+    },
+    {
+      "type": "file",
+      "name": "return.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/return.png"
+    },
+    {
+      "type": "file",
+      "name": "rewind.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/rewind.png"
+    },
+    {
+      "type": "file",
+      "name": "right.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/right.png"
+    },
+    {
+      "type": "file",
+      "name": "save.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/save.png"
+    },
+    {
+      "type": "file",
+      "name": "scrollHorizontal.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/scrollHorizontal.png"
+    },
+    {
+      "type": "file",
+      "name": "scrollVertical.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/scrollVertical.png"
+    },
+    {
+      "type": "file",
+      "name": "share1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/share1.png"
+    },
+    {
+      "type": "file",
+      "name": "share2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/share2.png"
+    },
+    {
+      "type": "file",
+      "name": "shoppingBasket.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/shoppingBasket.png"
+    },
+    {
+      "type": "file",
+      "name": "shoppingCart.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/shoppingCart.png"
+    },
+    {
+      "type": "file",
+      "name": "siganl1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/siganl1.png"
+    },
+    {
+      "type": "file",
+      "name": "signal2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/signal2.png"
+    },
+    {
+      "type": "file",
+      "name": "signal3.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/signal3.png"
+    },
+    {
+      "type": "file",
+      "name": "singleplayer.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/singleplayer.png"
+    },
+    {
+      "type": "file",
+      "name": "smaller.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/smaller.png"
+    },
+    {
+      "type": "file",
+      "name": "star.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/star.png"
+    },
+    {
+      "type": "file",
+      "name": "stop.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/stop.png"
+    },
+    {
+      "type": "file",
+      "name": "tablet.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/tablet.png"
+    },
+    {
+      "type": "file",
+      "name": "target.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/target.png"
+    },
+    {
+      "type": "file",
+      "name": "trashcan.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/trashcan.png"
+    },
+    {
+      "type": "file",
+      "name": "trashcanOpen.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/trashcanOpen.png"
+    },
+    {
+      "type": "file",
+      "name": "trophy.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/trophy.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num0.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num0.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num1.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num2.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num3.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num3.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num4.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num4.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num5.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num5.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num6.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num6.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num7.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num7.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num8.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num8.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_num9.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_num9.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_numPercent.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_numPercent.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_numPeriod.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_numPeriod.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_numX.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_numX.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_numXlarge.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_numXlarge.png"
+    },
+    {
+      "type": "file",
+      "name": "ui_select.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/ui_select.png"
+    },
+    {
+      "type": "file",
+      "name": "unlocked.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/unlocked.png"
+    },
+    {
+      "type": "file",
+      "name": "up.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/up.png"
+    },
+    {
+      "type": "file",
+      "name": "upLeft.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/upLeft.png"
+    },
+    {
+      "type": "file",
+      "name": "upRight.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/upRight.png"
+    },
+    {
+      "type": "file",
+      "name": "video.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/video.png"
+    },
+    {
+      "type": "file",
+      "name": "warning.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/warning.png"
+    },
+    {
+      "type": "file",
+      "name": "wrench.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/wrench.png"
+    },
+    {
+      "type": "file",
+      "name": "zoom.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/zoom.png"
+    },
+    {
+      "type": "file",
+      "name": "zoomDefault.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/zoomDefault.png"
+    },
+    {
+      "type": "file",
+      "name": "zoomIn.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/zoomIn.png"
+    },
+    {
+      "type": "file",
+      "name": "zoomOut.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/ui/zoomOut.png"
     },
     {
       "type": "file",
