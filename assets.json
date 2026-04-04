@@ -2,6 +2,26 @@
   "images": [
     {
       "type": "file",
+      "name": "bear.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/bear.png"
+    },
+    {
+      "type": "file",
+      "name": "bear_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/bear_square.png"
+    },
+    {
+      "type": "file",
+      "name": "buffalo.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/buffalo.png"
+    },
+    {
+      "type": "file",
+      "name": "buffalo_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/buffalo_square.png"
+    },
+    {
+      "type": "file",
       "name": "character_beige_climb_a.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_beige_climb_a.png"
     },
@@ -44,6 +64,66 @@
       "type": "file",
       "name": "character_beige_walk_b.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_beige_walk_b.png"
+    },
+    {
+      "type": "file",
+      "name": "character_black_blue.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_black_blue.png"
+    },
+    {
+      "type": "file",
+      "name": "character_black_green.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_black_green.png"
+    },
+    {
+      "type": "file",
+      "name": "character_black_red.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_black_red.png"
+    },
+    {
+      "type": "file",
+      "name": "character_black_white.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_black_white.png"
+    },
+    {
+      "type": "file",
+      "name": "character_blonde_blue.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_blonde_blue.png"
+    },
+    {
+      "type": "file",
+      "name": "character_blonde_green.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_blonde_green.png"
+    },
+    {
+      "type": "file",
+      "name": "character_blonde_red.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_blonde_red.png"
+    },
+    {
+      "type": "file",
+      "name": "character_blonde_white.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_blonde_white.png"
+    },
+    {
+      "type": "file",
+      "name": "character_brown_blue.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_brown_blue.png"
+    },
+    {
+      "type": "file",
+      "name": "character_brown_green.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_brown_green.png"
+    },
+    {
+      "type": "file",
+      "name": "character_brown_red.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_brown_red.png"
+    },
+    {
+      "type": "file",
+      "name": "character_brown_white.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_brown_white.png"
     },
     {
       "type": "file",
@@ -182,6 +262,46 @@
     },
     {
       "type": "file",
+      "name": "character_roundGreen.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_roundGreen.png"
+    },
+    {
+      "type": "file",
+      "name": "character_roundPurple.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_roundPurple.png"
+    },
+    {
+      "type": "file",
+      "name": "character_roundRed.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_roundRed.png"
+    },
+    {
+      "type": "file",
+      "name": "character_roundYellow.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_roundYellow.png"
+    },
+    {
+      "type": "file",
+      "name": "character_squareGreen.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_squareGreen.png"
+    },
+    {
+      "type": "file",
+      "name": "character_squarePurple.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_squarePurple.png"
+    },
+    {
+      "type": "file",
+      "name": "character_squareRed.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_squareRed.png"
+    },
+    {
+      "type": "file",
+      "name": "character_squareYellow.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_squareYellow.png"
+    },
+    {
+      "type": "file",
       "name": "character_yellow_climb_a.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_yellow_climb_a.png"
     },
@@ -224,6 +344,76 @@
       "type": "file",
       "name": "character_yellow_walk_b.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/character_yellow_walk_b.png"
+    },
+    {
+      "type": "file",
+      "name": "chick.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/chick.png"
+    },
+    {
+      "type": "file",
+      "name": "chick_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/chick_square.png"
+    },
+    {
+      "type": "file",
+      "name": "chicken.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/chicken.png"
+    },
+    {
+      "type": "file",
+      "name": "chicken_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/chicken_square.png"
+    },
+    {
+      "type": "file",
+      "name": "cow.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/cow.png"
+    },
+    {
+      "type": "file",
+      "name": "cow_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/cow_square.png"
+    },
+    {
+      "type": "file",
+      "name": "crocodile.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/crocodile.png"
+    },
+    {
+      "type": "file",
+      "name": "crocodile_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/crocodile_square.png"
+    },
+    {
+      "type": "file",
+      "name": "dog.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/dog.png"
+    },
+    {
+      "type": "file",
+      "name": "dog_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/dog_square.png"
+    },
+    {
+      "type": "file",
+      "name": "duck.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/duck.png"
+    },
+    {
+      "type": "file",
+      "name": "duck_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/duck_square.png"
+    },
+    {
+      "type": "file",
+      "name": "elephant.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/elephant.png"
+    },
+    {
+      "type": "file",
+      "name": "elephant_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/elephant_square.png"
     },
     {
       "type": "file",
@@ -344,6 +534,371 @@
       "type": "file",
       "name": "fish_red_skeleton_outline.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/fish_red_skeleton_outline.png"
+    },
+    {
+      "type": "file",
+      "name": "frog.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/frog.png"
+    },
+    {
+      "type": "file",
+      "name": "frog_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/frog_square.png"
+    },
+    {
+      "type": "file",
+      "name": "giraffe.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/giraffe.png"
+    },
+    {
+      "type": "file",
+      "name": "giraffe_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/giraffe_square.png"
+    },
+    {
+      "type": "file",
+      "name": "goat.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/goat.png"
+    },
+    {
+      "type": "file",
+      "name": "goat_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/goat_square.png"
+    },
+    {
+      "type": "file",
+      "name": "gorilla.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/gorilla.png"
+    },
+    {
+      "type": "file",
+      "name": "gorilla_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/gorilla_square.png"
+    },
+    {
+      "type": "file",
+      "name": "hippo.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/hippo.png"
+    },
+    {
+      "type": "file",
+      "name": "hippo_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/hippo_square.png"
+    },
+    {
+      "type": "file",
+      "name": "horse.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/horse.png"
+    },
+    {
+      "type": "file",
+      "name": "horse_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/horse_square.png"
+    },
+    {
+      "type": "file",
+      "name": "monkey.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/monkey.png"
+    },
+    {
+      "type": "file",
+      "name": "monkey_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/monkey_square.png"
+    },
+    {
+      "type": "file",
+      "name": "moose.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/moose.png"
+    },
+    {
+      "type": "file",
+      "name": "moose_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/moose_square.png"
+    },
+    {
+      "type": "file",
+      "name": "narwhal.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/narwhal.png"
+    },
+    {
+      "type": "file",
+      "name": "narwhal_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/narwhal_square.png"
+    },
+    {
+      "type": "file",
+      "name": "owl.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/owl.png"
+    },
+    {
+      "type": "file",
+      "name": "owl_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/owl_square.png"
+    },
+    {
+      "type": "file",
+      "name": "panda.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/panda.png"
+    },
+    {
+      "type": "file",
+      "name": "panda_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/panda_square.png"
+    },
+    {
+      "type": "file",
+      "name": "parrot.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/parrot.png"
+    },
+    {
+      "type": "file",
+      "name": "parrot_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/parrot_square.png"
+    },
+    {
+      "type": "file",
+      "name": "penguin.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/penguin.png"
+    },
+    {
+      "type": "file",
+      "name": "penguin_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/penguin_square.png"
+    },
+    {
+      "type": "file",
+      "name": "pig.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/pig.png"
+    },
+    {
+      "type": "file",
+      "name": "pig_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/pig_square.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_climb1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_climb1.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_climb2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_climb2.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_duck.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_duck.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_happy.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_happy.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_idle.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_idle.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_jump.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_jump.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_walk1.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_walk1.png"
+    },
+    {
+      "type": "file",
+      "name": "platformChar_walk2.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/platformChar_walk2.png"
+    },
+    {
+      "type": "file",
+      "name": "rabbit.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/rabbit.png"
+    },
+    {
+      "type": "file",
+      "name": "rabbit_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/rabbit_square.png"
+    },
+    {
+      "type": "file",
+      "name": "racer_black.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/racer_black.png"
+    },
+    {
+      "type": "file",
+      "name": "racer_blue.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/racer_blue.png"
+    },
+    {
+      "type": "file",
+      "name": "racer_green.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/racer_green.png"
+    },
+    {
+      "type": "file",
+      "name": "racer_red.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/racer_red.png"
+    },
+    {
+      "type": "file",
+      "name": "racer_yellow.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/racer_yellow.png"
+    },
+    {
+      "type": "file",
+      "name": "rhino.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/rhino.png"
+    },
+    {
+      "type": "file",
+      "name": "rhino_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/rhino_square.png"
+    },
+    {
+      "type": "file",
+      "name": "sloth.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/sloth.png"
+    },
+    {
+      "type": "file",
+      "name": "sloth_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/sloth_square.png"
+    },
+    {
+      "type": "file",
+      "name": "snake.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/snake.png"
+    },
+    {
+      "type": "file",
+      "name": "snake_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/snake_square.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_001.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_001.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_002.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_002.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_003.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_003.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_004.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_004.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_005.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_005.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_006.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_006.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_007.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_007.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_008.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_008.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_009.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_009.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_010.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_010.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_011.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_011.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_012.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_012.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_013.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_013.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_014.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_014.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_015.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_015.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_016.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_016.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_017.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_017.png"
+    },
+    {
+      "type": "file",
+      "name": "spaceAstronauts_018.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/spaceAstronauts_018.png"
+    },
+    {
+      "type": "file",
+      "name": "walrus.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/walrus.png"
+    },
+    {
+      "type": "file",
+      "name": "walrus_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/walrus_square.png"
+    },
+    {
+      "type": "file",
+      "name": "whale.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/whale.png"
+    },
+    {
+      "type": "file",
+      "name": "whale_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/whale_square.png"
+    },
+    {
+      "type": "file",
+      "name": "zebra.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/zebra.png"
+    },
+    {
+      "type": "file",
+      "name": "zebra_square.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/characters/zebra_square.png"
     }
   ],
   "audio": [
