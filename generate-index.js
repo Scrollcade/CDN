@@ -16,8 +16,8 @@ function getFiles(dir, fileList = []) {
 }
 
 const rootDir = __dirname;
-const imgDir = path.join(rootDir, 'img', 'assets', 'characters');
-const audioDir = path.join(rootDir, 'audio', 'Impact');
+const imgDir = path.join(rootDir, 'img', 'assets');
+const audioDir = path.join(rootDir, 'audio');
 
 const imgFiles = fs.existsSync(imgDir) ? getFiles(imgDir).map(f => {
     return {
