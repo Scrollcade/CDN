@@ -1487,8 +1487,33 @@
     },
     {
       "type": "file",
-      "name": "Thumbs.db",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/Thumbs.db"
+      "name": "book.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/book.png"
+    },
+    {
+      "type": "file",
+      "name": "briefcase.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/briefcase.png"
+    },
+    {
+      "type": "file",
+      "name": "compass.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/compass.png"
+    },
+    {
+      "type": "file",
+      "name": "folder.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/folder.png"
+    },
+    {
+      "type": "file",
+      "name": "fork.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/fork.png"
+    },
+    {
+      "type": "file",
+      "name": "gamepad.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/gamepad.png"
     },
     {
       "type": "file",
@@ -1647,11 +1672,6 @@
     },
     {
       "type": "file",
-      "name": "genericItem_color_032.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_032.png"
-    },
-    {
-      "type": "file",
       "name": "genericItem_color_033.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_033.png"
     },
@@ -1664,11 +1684,6 @@
       "type": "file",
       "name": "genericItem_color_035.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_035.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_036.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_036.png"
     },
     {
       "type": "file",
@@ -1729,16 +1744,6 @@
       "type": "file",
       "name": "genericItem_color_048.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_048.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_049.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_049.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_050.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_050.png"
     },
     {
       "type": "file",
@@ -1807,23 +1812,8 @@
     },
     {
       "type": "file",
-      "name": "genericItem_color_064.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_064.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_065.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_065.png"
-    },
-    {
-      "type": "file",
       "name": "genericItem_color_066.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_066.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_067.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_067.png"
     },
     {
       "type": "file",
@@ -1897,21 +1887,6 @@
     },
     {
       "type": "file",
-      "name": "genericItem_color_082.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_082.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_083.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_083.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_084.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_084.png"
-    },
-    {
-      "type": "file",
       "name": "genericItem_color_085.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_085.png"
     },
@@ -1959,11 +1934,6 @@
       "type": "file",
       "name": "genericItem_color_094.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_094.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_095.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_095.png"
     },
     {
       "type": "file",
@@ -2132,21 +2102,6 @@
     },
     {
       "type": "file",
-      "name": "genericItem_color_129.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_129.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_130.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_130.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_131.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_131.png"
-    },
-    {
-      "type": "file",
       "name": "genericItem_color_132.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_132.png"
     },
@@ -2189,11 +2144,6 @@
       "type": "file",
       "name": "genericItem_color_140.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_140.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_141.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_141.png"
     },
     {
       "type": "file",
@@ -2262,23 +2212,8 @@
     },
     {
       "type": "file",
-      "name": "genericItem_color_155.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_155.png"
-    },
-    {
-      "type": "file",
       "name": "genericItem_color_156.png",
       "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_156.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_157.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_157.png"
-    },
-    {
-      "type": "file",
-      "name": "genericItem_color_158.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_158.png"
     },
     {
       "type": "file",
@@ -2297,13 +2232,73 @@
     },
     {
       "type": "file",
-      "name": "genericItem_color_162.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_162.png"
+      "name": "genericItem_color_163.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_163.png"
     },
     {
       "type": "file",
-      "name": "genericItem_color_163.png",
-      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/genericItem_color_163.png"
+      "name": "headphone.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/headphone.png"
+    },
+    {
+      "type": "file",
+      "name": "key.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/key.png"
+    },
+    {
+      "type": "file",
+      "name": "knife_01.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/knife_01.png"
+    },
+    {
+      "type": "file",
+      "name": "laptop_back.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/laptop_back.png"
+    },
+    {
+      "type": "file",
+      "name": "laptop_front.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/laptop_front.png"
+    },
+    {
+      "type": "file",
+      "name": "microphone.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/microphone.png"
+    },
+    {
+      "type": "file",
+      "name": "money.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/money.png"
+    },
+    {
+      "type": "file",
+      "name": "phone_01.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/phone_01.png"
+    },
+    {
+      "type": "file",
+      "name": "phone_02.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/phone_02.png"
+    },
+    {
+      "type": "file",
+      "name": "phone_03.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/phone_03.png"
+    },
+    {
+      "type": "file",
+      "name": "spoon.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/spoon.png"
+    },
+    {
+      "type": "file",
+      "name": "toothbrush.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/toothbrush.png"
+    },
+    {
+      "type": "file",
+      "name": "wallet.png",
+      "download_url": "https://cdn.jsdelivr.net/gh/Scrollcade/CDN@main/img/assets/generic/wallet.png"
     },
     {
       "type": "file",
